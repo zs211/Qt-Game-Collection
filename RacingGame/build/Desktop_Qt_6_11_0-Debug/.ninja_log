@@ -1,0 +1,17 @@
+# ninja log v5
+2	174	1774605766159007042	RacingGame_autogen/timestamp	d70b0caf2c043506
+2	174	1774605766159007042	RacingGame_autogen/mocs_compilation.cpp	d70b0caf2c043506
+2	174	1774605766159007042	/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame_autogen/timestamp	d70b0caf2c043506
+2	174	1774605766159007042	/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame_autogen/mocs_compilation.cpp	d70b0caf2c043506
+175	1398	1774605767384991484	CMakeFiles/RacingGame.dir/main.cpp.o	21a4cfd681b75de7
+175	1435	1774605767421991015	CMakeFiles/RacingGame.dir/RacingGame_autogen/mocs_compilation.cpp.o	83a30df8c3903e8e
+175	1623	1774605767609988629	CMakeFiles/RacingGame.dir/widget.cpp.o	fd0a4d10d3c9c16e
+1623	1886	1774605767869985330	RacingGame	26757af10d2b24a2
+3	169	1774606042697422224	RacingGame_autogen/timestamp	d70b0caf2c043506
+3	169	1774606042697422224	RacingGame_autogen/mocs_compilation.cpp	d70b0caf2c043506
+3	169	1774606042697422224	/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame_autogen/timestamp	d70b0caf2c043506
+3	169	1774606042697422224	/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame_autogen/mocs_compilation.cpp	d70b0caf2c043506
+170	1367	1774606043897406392	CMakeFiles/RacingGame.dir/main.cpp.o	21a4cfd681b75de7
+170	1392	1774606043922406062	CMakeFiles/RacingGame.dir/RacingGame_autogen/mocs_compilation.cpp.o	83a30df8c3903e8e
+170	1584	1774606044114403529	CMakeFiles/RacingGame.dir/widget.cpp.o	fd0a4d10d3c9c16e
+1584	1847	1774606044373400111	RacingGame	26757af10d2b24a2
