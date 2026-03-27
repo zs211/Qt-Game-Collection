@@ -40,6 +40,7 @@ Qt-Game-Collection/
 ├── TetrisGame/      # 俄罗斯方块
 ├── PlaneGame/       # 飞机大战（含特效、难度）
 ├── .gitignore
+|—— RacingGame       #赛车游戏
 └── README.md
 ```
 
