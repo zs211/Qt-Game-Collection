@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>plane.png</file>
+        <file>下载.jpeg</file>
+    </qresource>
+</RCC>

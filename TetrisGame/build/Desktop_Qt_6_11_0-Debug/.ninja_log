@@ -1,0 +1,9 @@
+# ninja log v5
+3	170	1774592988520751667	TetrisGame_autogen/timestamp	b0fcf80ea00a9f9d
+3	170	1774592988520751667	TetrisGame_autogen/mocs_compilation.cpp	b0fcf80ea00a9f9d
+3	170	1774592988520751667	/home/robot/TetrisGame/build/Desktop_Qt_6_11_0-Debug/TetrisGame_autogen/timestamp	b0fcf80ea00a9f9d
+3	170	1774592988520751667	/home/robot/TetrisGame/build/Desktop_Qt_6_11_0-Debug/TetrisGame_autogen/mocs_compilation.cpp	b0fcf80ea00a9f9d
+171	1328	1774592989680741976	CMakeFiles/TetrisGame.dir/main.cpp.o	83cf4dfa029a2e11
+171	1351	1774592989703741784	CMakeFiles/TetrisGame.dir/TetrisGame_autogen/mocs_compilation.cpp.o	6dc62972c9c224de
+171	1747	1774592990098738482	CMakeFiles/TetrisGame.dir/widget.cpp.o	5701fa40ce50ec91
+1747	2011	1774592990360736290	TetrisGame	dd51f28e8c4b0584
