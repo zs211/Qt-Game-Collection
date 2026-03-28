@@ -18,6 +18,7 @@
 ---
 ## 游戏截图
 <img width="410" height="634" alt="image" src="https://github.com/user-attachments/assets/f8234b83-d368-40aa-8de3-c0bddbb9e7a1" />
+<img width="490" height="674" alt="image" src="https://github.com/user-attachments/assets/208c781b-d559-42f9-87c0-a38c38fc4bdf" />
 
 ---
 
