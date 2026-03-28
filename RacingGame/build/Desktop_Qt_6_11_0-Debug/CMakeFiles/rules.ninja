@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/robot/Qt/Tools/CMake/bin/cmake --regenerate-during-build -S/home/robot/RacingGame -B/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug
+  command = /home/robot/Qt/Tools/CMake/bin/cmake --regenerate-during-build -S/home/robot/Qt-Game-Collection/RacingGame -B/home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug
   description = Re-running CMake...
   generator = 1
 

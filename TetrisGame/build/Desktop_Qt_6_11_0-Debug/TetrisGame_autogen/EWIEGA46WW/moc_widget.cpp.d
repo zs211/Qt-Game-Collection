@@ -1,5 +1,5 @@
-/home/robot/TetrisGame/build/Desktop_Qt_6_11_0-Debug/TetrisGame_autogen/EWIEGA46WW/moc_widget.cpp: /home/robot/TetrisGame/widget.h \
-  /home/robot/TetrisGame/build/Desktop_Qt_6_11_0-Debug/TetrisGame_autogen/moc_predefs.h \
+/home/robot/Qt-Game-Collection/TetrisGame/build/Desktop_Qt_6_11_0-Debug/TetrisGame_autogen/EWIEGA46WW/moc_widget.cpp: /home/robot/Qt-Game-Collection/TetrisGame/widget.h \
+  /home/robot/Qt-Game-Collection/TetrisGame/build/Desktop_Qt_6_11_0-Debug/TetrisGame_autogen/moc_predefs.h \
   /home/robot/Qt/6.11.0/gcc_64/include/QtCore/QList \
   /home/robot/Qt/6.11.0/gcc_64/include/QtCore/QObject \
   /home/robot/Qt/6.11.0/gcc_64/include/QtCore/QPoint \

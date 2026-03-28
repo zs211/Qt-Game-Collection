@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a859455e70963dfdae79.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RacingGame",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RacingGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RacingGame-Debug-8fefe3564aad4197ffa6.json",
+					"name" : "RacingGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RacingGame_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RacingGame_autogen-Debug-fe3e611fb3636911d48d.json",
+					"name" : "RacingGame_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RacingGame_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RacingGame_autogen_timestamp_deps-Debug-1d661c3860d122189a9d.json",
+					"name" : "RacingGame_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug",
+		"source" : "/home/robot/Qt-Game-Collection/RacingGame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

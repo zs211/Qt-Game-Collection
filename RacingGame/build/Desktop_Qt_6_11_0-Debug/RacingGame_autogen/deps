@@ -1,4 +1,14 @@
 RacingGame_autogen/timestamp: \
+	/home/robot/Qt-Game-Collection/RacingGame/CMakeLists.txt \
+	/home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake \
+	/home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/package-manager.cmake \
+	/home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake \
+	/home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
+	/home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
+	/home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame_autogen/moc_predefs.h \
+	/home/robot/Qt-Game-Collection/RacingGame/main.cpp \
+	/home/robot/Qt-Game-Collection/RacingGame/widget.cpp \
+	/home/robot/Qt-Game-Collection/RacingGame/widget.h \
 	/home/robot/Qt/6.11.0/gcc_64/include/QtCore/QList \
 	/home/robot/Qt/6.11.0/gcc_64/include/QtCore/QObject \
 	/home/robot/Qt/6.11.0/gcc_64/include/QtCore/QRect \
@@ -613,16 +623,6 @@ RacingGame_autogen/timestamp: \
 	/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/Platform/Linux-Initialize.cmake \
 	/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/Platform/Linux.cmake \
 	/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/Platform/UnixPaths.cmake \
-	/home/robot/RacingGame/CMakeLists.txt \
-	/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake \
-	/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/package-manager.cmake \
-	/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake \
-	/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
-	/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
-	/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame_autogen/moc_predefs.h \
-	/home/robot/RacingGame/main.cpp \
-	/home/robot/RacingGame/widget.cpp \
-	/home/robot/RacingGame/widget.h \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \

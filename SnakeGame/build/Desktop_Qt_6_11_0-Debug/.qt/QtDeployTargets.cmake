@@ -1,2 +1,2 @@
-set(__QT_DEPLOY_TARGET_SnakeGame_FILE /home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame)
+set(__QT_DEPLOY_TARGET_SnakeGame_FILE /home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame)
 set(__QT_DEPLOY_TARGET_SnakeGame_TYPE EXECUTABLE)

@@ -1,4 +1,4 @@
-# Install script for directory: /home/robot/RacingGame
+# Install script for directory: /home/robot/Qt-Game-Collection/RacingGame
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,7 +49,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/RacingGame"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/RacingGame" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/RacingGame")
     file(RPATH_CHANGE
@@ -77,6 +77,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -1,18 +1,18 @@
 {
-	"BUILD_DIR" : "/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame_autogen",
-	"CMAKE_BINARY_DIR" : "/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/robot/SnakeGame",
+	"BUILD_DIR" : "/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame_autogen",
+	"CMAKE_BINARY_DIR" : "/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/robot/Qt-Game-Collection/SnakeGame",
 	"CMAKE_EXECUTABLE" : "/home/robot/Qt/Tools/CMake/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/robot/SnakeGame/CMakeLists.txt",
-		"/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake",
-		"/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/package-manager.cmake",
+		"/home/robot/Qt-Game-Collection/SnakeGame/CMakeLists.txt",
+		"/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake",
+		"/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/package-manager.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeSystem.cmake.in",
-		"/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake",
-		"/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake",
+		"/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake",
+		"/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/Platform/Linux-Initialize.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake",
@@ -65,7 +65,7 @@
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
+		"/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake",
@@ -91,7 +91,7 @@
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
+		"/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
 		"/home/robot/Qt/6.11.0/gcc_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
 		"/home/robot/Qt/6.11.0/gcc_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
 		"/home/robot/Qt/6.11.0/gcc_64/lib/cmake/Qt6/Qt6Config.cmake",
@@ -580,22 +580,22 @@
 		"/home/robot/Qt/6.11.0/gcc_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/robot/SnakeGame",
+	"CMAKE_SOURCE_DIR" : "/home/robot/Qt-Game-Collection/SnakeGame",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame_autogen/deps",
+	"DEP_FILE" : "/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "SnakeGame_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/home/robot/SnakeGame/widget.h",
+			"/home/robot/Qt-Game-Collection/SnakeGame/widget.h",
 			"MU",
 			"EWIEGA46WW/moc_widget.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_QML_DEBUG", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -639,21 +639,21 @@
 		"-c",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/SnakeGame_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/SnakeGame_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/SnakeGame_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/home/robot/Qt/6.11.0/gcc_64/libexec/moc",
 	"QT_UIC_EXECUTABLE" : "/home/robot/Qt/6.11.0/gcc_64/libexec/uic",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 11,
-	"SETTINGS_FILE" : "/home/robot/SnakeGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/SnakeGame_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/robot/Qt-Game-Collection/SnakeGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/SnakeGame_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/home/robot/SnakeGame/main.cpp", "MU", null ],
-		[ "/home/robot/SnakeGame/widget.cpp", "MU", null ]
+		[ "/home/robot/Qt-Game-Collection/SnakeGame/main.cpp", "MU", null ],
+		[ "/home/robot/Qt-Game-Collection/SnakeGame/widget.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

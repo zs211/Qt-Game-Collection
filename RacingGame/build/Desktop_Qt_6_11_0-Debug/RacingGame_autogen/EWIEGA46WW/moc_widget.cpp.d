@@ -1,5 +1,5 @@
-/home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame_autogen/EWIEGA46WW/moc_widget.cpp: /home/robot/RacingGame/widget.h \
-  /home/robot/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame_autogen/moc_predefs.h \
+/home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame_autogen/EWIEGA46WW/moc_widget.cpp: /home/robot/Qt-Game-Collection/RacingGame/widget.h \
+  /home/robot/Qt-Game-Collection/RacingGame/build/Desktop_Qt_6_11_0-Debug/RacingGame_autogen/moc_predefs.h \
   /home/robot/Qt/6.11.0/gcc_64/include/QtCore/QList \
   /home/robot/Qt/6.11.0/gcc_64/include/QtCore/QObject \
   /home/robot/Qt/6.11.0/gcc_64/include/QtCore/QRect \
