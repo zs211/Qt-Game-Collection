@@ -35,9 +35,8 @@ void Widget::initGame()
 
     setDifficulty(difficulty); // 初始化难度
 
-    planePix.load(":/new/prefix1/plane.png");
-    enemyPix.load(":/new/prefix1/enemy.jpeg");
-    explosionPix.load(":/new/prefix1/./桌面/explosion.png");
+    planePix.load(":/prefix1/plane.png");
+    enemyPix.load(":/prefix1/enemy.jpeg");
 }
 
 void Widget::gameLoop()

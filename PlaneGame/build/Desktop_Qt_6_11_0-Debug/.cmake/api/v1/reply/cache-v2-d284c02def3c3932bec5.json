@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug"
+			"value" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -451,7 +451,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -523,7 +523,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/robot/PlaneGame"
+			"value" : "/home/robot/Qt-Game-Collection/PlaneGame"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1031,7 +1031,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+			"value" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
 		},
 		{
 			"name" : "CMAKE_PROJECT_NAME",
@@ -1655,7 +1655,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug"
+			"value" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug"
 		},
 		{
 			"name" : "PlaneGame_IS_TOP_LEVEL",
@@ -1679,7 +1679,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/robot/PlaneGame"
+			"value" : "/home/robot/Qt-Game-Collection/PlaneGame"
 		},
 		{
 			"name" : "QTCREATOR_CMAKE_HELPER_DIRECTORY",
@@ -1691,7 +1691,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper"
+			"value" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper"
 		},
 		{
 			"name" : "QT_ADDITIONAL_HOST_PACKAGES_PREFIX_PATH",

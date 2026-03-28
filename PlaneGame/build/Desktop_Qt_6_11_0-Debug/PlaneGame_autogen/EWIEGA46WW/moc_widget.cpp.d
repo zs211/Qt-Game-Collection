@@ -1,5 +1,5 @@
-/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/EWIEGA46WW/moc_widget.cpp: /home/robot/PlaneGame/widget.h \
-  /home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/moc_predefs.h \
+/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/EWIEGA46WW/moc_widget.cpp: /home/robot/Qt-Game-Collection/PlaneGame/widget.h \
+  /home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/moc_predefs.h \
   /home/robot/Qt/6.11.0/gcc_64/include/QtCore/QList \
   /home/robot/Qt/6.11.0/gcc_64/include/QtCore/QObject \
   /home/robot/Qt/6.11.0/gcc_64/include/QtCore/QPoint \

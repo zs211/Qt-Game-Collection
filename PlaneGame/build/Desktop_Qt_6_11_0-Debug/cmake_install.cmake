@@ -1,4 +1,4 @@
-# Install script for directory: /home/robot/PlaneGame
+# Install script for directory: /home/robot/Qt-Game-Collection/PlaneGame
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -57,6 +57,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

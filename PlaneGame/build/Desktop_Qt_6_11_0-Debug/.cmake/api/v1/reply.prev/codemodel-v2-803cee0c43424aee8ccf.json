@@ -43,7 +43,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "PlaneGame::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PlaneGame-Debug-932fd2a1645a8f4917f2.json",
+					"jsonFile" : "target-PlaneGame-Debug-5eba82f844dea4f8c532.json",
 					"name" : "PlaneGame",
 					"projectIndex" : 0
 				},
@@ -67,8 +67,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug",
-		"source" : "/home/robot/PlaneGame"
+		"build" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug",
+		"source" : "/home/robot/Qt-Game-Collection/PlaneGame"
 	},
 	"version" : 
 	{

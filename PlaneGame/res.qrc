@@ -1,7 +1,6 @@
 <RCC>
-    <qresource prefix="/new/prefix1">
+    <qresource prefix="/prefix1">
         <file>plane.png</file>
         <file>enemy.jpeg</file>
-        <file>../桌面/explosion.png</file>
     </qresource>
 </RCC>

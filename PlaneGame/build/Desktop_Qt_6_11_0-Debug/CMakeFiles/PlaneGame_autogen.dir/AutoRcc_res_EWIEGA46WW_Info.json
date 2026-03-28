@@ -1,27 +1,26 @@
 {
-	"BUILD_DIR" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen",
-	"CMAKE_BINARY_DIR" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/robot/PlaneGame",
-	"CMAKE_SOURCE_DIR" : "/home/robot/PlaneGame",
+	"BUILD_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen",
+	"CMAKE_BINARY_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame",
+	"CMAKE_SOURCE_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame",
 	"CROSS_CONFIG" : false,
 	"GENERATOR" : "Ninja",
-	"INCLUDE_DIR" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/include",
+	"INCLUDE_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/include",
 	"INPUTS" : 
 	[
-		"/home/robot/PlaneGame/enemy.jpeg",
-		"/home/robot/PlaneGame/plane.png",
-		"/home/robot/\u684c\u9762/explosion.png"
+		"/home/robot/Qt-Game-Collection/PlaneGame/enemy.jpeg",
+		"/home/robot/Qt-Game-Collection/PlaneGame/plane.png"
 	],
-	"LOCK_FILE" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/PlaneGame_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"LOCK_FILE" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/PlaneGame_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,
 	"OPTIONS" : [ "-name", "res" ],
 	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
 	"OUTPUT_NAME" : "qrc_res.cpp",
 	"RCC_EXECUTABLE" : "/home/robot/Qt/6.11.0/gcc_64/libexec/rcc",
 	"RCC_LIST_OPTIONS" : [ "--list" ],
-	"SETTINGS_FILE" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/PlaneGame_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
-	"SOURCE" : "/home/robot/PlaneGame/res.qrc",
+	"SETTINGS_FILE" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/PlaneGame_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/robot/Qt-Game-Collection/PlaneGame/res.qrc",
 	"USE_BETTER_GRAPH" : true,
 	"VERBOSITY" : 0
 }

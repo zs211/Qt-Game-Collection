@@ -1,15 +1,15 @@
 PlaneGame_autogen/timestamp: \
-	/home/robot/PlaneGame/CMakeLists.txt \
-	/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake \
-	/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/package-manager.cmake \
-	/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake \
-	/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
-	/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
-	/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/moc_predefs.h \
-	/home/robot/PlaneGame/main.cpp \
-	/home/robot/PlaneGame/res.qrc \
-	/home/robot/PlaneGame/widget.cpp \
-	/home/robot/PlaneGame/widget.h \
+	/home/robot/Qt-Game-Collection/PlaneGame/CMakeLists.txt \
+	/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake \
+	/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/package-manager.cmake \
+	/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake \
+	/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
+	/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
+	/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/moc_predefs.h \
+	/home/robot/Qt-Game-Collection/PlaneGame/main.cpp \
+	/home/robot/Qt-Game-Collection/PlaneGame/res.qrc \
+	/home/robot/Qt-Game-Collection/PlaneGame/widget.cpp \
+	/home/robot/Qt-Game-Collection/PlaneGame/widget.h \
 	/home/robot/Qt/6.11.0/gcc_64/include/QtCore/QList \
 	/home/robot/Qt/6.11.0/gcc_64/include/QtCore/QObject \
 	/home/robot/Qt/6.11.0/gcc_64/include/QtCore/QPoint \

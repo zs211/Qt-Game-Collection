@@ -1,19 +1,19 @@
 {
-	"BUILD_DIR" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen",
-	"CMAKE_BINARY_DIR" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/robot/PlaneGame",
+	"BUILD_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen",
+	"CMAKE_BINARY_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame",
 	"CMAKE_EXECUTABLE" : "/home/robot/Qt/Tools/CMake/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/robot/PlaneGame/CMakeLists.txt",
-		"/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake",
-		"/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/package-manager.cmake",
-		"/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake",
-		"/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake",
+		"/home/robot/Qt-Game-Collection/PlaneGame/CMakeLists.txt",
+		"/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake",
+		"/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/package-manager.cmake",
+		"/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake",
+		"/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/Platform/Linux-Initialize.cmake",
-		"/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
+		"/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake",
@@ -513,24 +513,24 @@
 		"/home/robot/Qt/6.11.0/gcc_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
 		"/home/robot/Qt/6.11.0/gcc_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
-		"/home/robot/PlaneGame/res.qrc"
+		"/home/robot/Qt-Game-Collection/PlaneGame/res.qrc"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/robot/PlaneGame",
+	"CMAKE_SOURCE_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/deps",
+	"DEP_FILE" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "PlaneGame_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"/home/robot/PlaneGame/widget.h",
+			"/home/robot/Qt-Game-Collection/PlaneGame/widget.h",
 			"MU",
 			"EWIEGA46WW/moc_widget.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_QML_DEBUG", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -574,21 +574,21 @@
 		"-c",
 		"/home/robot/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/PlaneGame_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/PlaneGame_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/PlaneGame_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/home/robot/Qt/6.11.0/gcc_64/libexec/moc",
 	"QT_UIC_EXECUTABLE" : "/home/robot/Qt/6.11.0/gcc_64/libexec/uic",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 11,
-	"SETTINGS_FILE" : "/home/robot/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/PlaneGame_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/robot/Qt-Game-Collection/PlaneGame/build/Desktop_Qt_6_11_0-Debug/CMakeFiles/PlaneGame_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/home/robot/PlaneGame/main.cpp", "MU", null ],
-		[ "/home/robot/PlaneGame/widget.cpp", "MU", null ]
+		[ "/home/robot/Qt-Game-Collection/PlaneGame/main.cpp", "MU", null ],
+		[ "/home/robot/Qt-Game-Collection/PlaneGame/widget.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
